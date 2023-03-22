@@ -20,7 +20,6 @@
     "skipDefaultLibCheck": true,
     "inlineSourceMap": true,
     "importHelpers": true,
-    "outDir": "dist/"
   },
   "exclude": [
     "app/public",
